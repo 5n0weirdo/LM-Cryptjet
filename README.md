@@ -195,7 +195,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-[@snoweirdo](https://linkedin.com/in/snoweirdo/) - snoweirdo.dev@gmail.com
+[@snoweirdo](https://linkedin.com/in/snoweirdo/)
 
 [https://github.com/5n0weirdo/LM-Cryptjet](https://github.com/5n0weirdo/LM-Cryptjet)
 
